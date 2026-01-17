@@ -1,8 +1,8 @@
 # windtunnel
 Wind tunnel
-![alt text](https://github.com/omarbanlucas/windtunnel/blob/main/Tu%CC%81nel%20de%20viento%20-%201.PNG "Wind tunnel 1")
-![alt text](https://github.com/omarbanlucas/windtunnel/blob/main/Tu%CC%81nel%20de%20viento%20-%202.PNG "Wind tunnel 2")
-![alt text](https://github.com/omarbanlucas/windtunnel/blob/main/Tu%CC%81nel%20de%20viento%20-%203.PNG "Wind tunnel 3")
+![alt text](https://github.com/omarbanlucas/windtunnel/blob/main/imgs/Tu%CC%81nel%20de%20viento%20-%201.PNG "Wind tunnel 1")
+![alt text](https://github.com/omarbanlucas/windtunnel/blob/main/imgs/Tu%CC%81nel%20de%20viento%20-%202.PNG "Wind tunnel 2")
+![alt text](https://github.com/omarbanlucas/windtunnel/blob/main/imgs/Tu%CC%81nel%20de%20viento%20-%203.PNG "Wind tunnel 3")
 
 ## Aerodinámica del AM23
 [![Alt text](https://img.youtube.com/vi/_YCMNYp9so8/0.jpg)](https://www.youtube.com/watch?v=_YCMNYp9so8)
