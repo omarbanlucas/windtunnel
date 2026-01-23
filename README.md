@@ -18,3 +18,11 @@
 [![Alt text](https://img.youtube.com/vi/5KntVqRuurY/0.jpg)](https://www.youtube.com/watch?v=5KntVqRuurY)
 ## Aerodinámica del Mercedes SLR
 [![Alt text](https://img.youtube.com/vi/6uzi0zt5pNs/0.jpg)](https://www.youtube.com/watch?v=6uzi0zt5pNs)
+## Aerodinamica del Pagani Zonda R
+[![Alt text](https://img.youtube.com/vi/xpB7iJ0sgz8/0.jpg)](https://www.youtube.com/watch?v=xpB7iJ0sgz8)
+## Aerodinamica del Lamborghini Sián
+[![Alt text](https://img.youtube.com/vi/sPMQS6XGEjk/0.jpg)](https://www.youtube.com/watch?v=sPMQS6XGEjk)
+## Aerodinámica del McLaren Solus
+[![Alt text](https://img.youtube.com/vi/8QLqo1E_UYA/0.jpg)](https://www.youtube.com/watch?v=8QLqo1E_UYA)
+## Aerodinamica de la Furgoneta de chimichangas de Deadpool
+[![Alt text](https://img.youtube.com/vi/zNUw5RSLzPU/0.jpg)](https://www.youtube.com/watch?v=zNUw5RSLzPU)
